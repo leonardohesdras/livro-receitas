@@ -3,4 +3,6 @@
 Olá! Bem vindo ao meu livro de Receitas :)
 
  - Strogonoff de Frango
- - Empada de Camarão 
+ - Empada de Camarão
+ - Bolo de Morango 
+
